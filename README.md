@@ -48,8 +48,8 @@ In short, __never__ be late.
 
 [Christopher Gibson][3]<br>
 
-[1]: hehe
+[1]: https://www.linkedin.com/in/nic-bander-6168b37b
 
 [2]: https://www.usi.edu/media/aa1doln4/lagenourprofile.jpg?rmode=max&width=200&height=267
 
-[3]: hehe
+[3]: https://newtech.evscschools.com/about_us/staff_directory/office___administration
