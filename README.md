@@ -30,4 +30,12 @@
 ## My Ideology
 *If you're On-time, you're late, and if you're late, you never should have come in the first place.*
 
-_In short, never be late._
+In short, __never__ be late.
+
+## My Favorite Websites
+
+[Stack Overflow](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Stack Overflow")
+
+[Steam](https://store.steampowered.com/ "steam")
+
+[Wikipedia](https://www.wikipedia.org/ "Wikipedia, the best research website that no teacher can tell me otherwise")
