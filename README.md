@@ -41,18 +41,23 @@ In short, __never__ be late.
 [Wikipedia](https://www.wikipedia.org/ "Wikipedia, the best research website that no teacher can tell me otherwise")
 
 ## People of Interest
-
+<div class="left">
+  
 [Nicholas Bander][1]<br>
 <img src="https://github.com/ZackApog/AboutMe/blob/41221556351e9d3614537ed40b5634831037b9f3/img/Gibson.png" height="250px">
+</div>
 
-
+<div class="center">
+  
 [Hans Lagenour][2]<br>
 <img src="https://github.com/ZackApog/AboutMe/blob/bbcf15399ff0e0458522f5f9f6099c56a4f0ca28/img/lagenour.jpg" height="250px">
+</div>
 
-
-[Christopher Gibson][3]<br>
+<div class="right">
+  
+  [Christopher Gibson][3]<br>
 <img src="https://github.com/ZackApog/AboutMe/blob/b3e731240094a5f27596fe76d431ed4a8bf831c6/img/Gibson.jpg" height="250px">
-
+</div>
 
 [1]: https://www.linkedin.com/in/nic-bander-6168b37b
 
