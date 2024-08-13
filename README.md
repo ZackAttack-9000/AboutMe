@@ -47,11 +47,11 @@ In short, __never__ be late.
 
 
 [Hans Lagenour][2]<br>
-
+<img src="https://github.com/ZackApog/AboutMe/blob/bbcf15399ff0e0458522f5f9f6099c56a4f0ca28/img/lagenour.jpg" height="250px">
 
 
 [Christopher Gibson][3]<br>
-
+<img src="" height="250px">
 
 
 [1]: https://www.linkedin.com/in/nic-bander-6168b37b
