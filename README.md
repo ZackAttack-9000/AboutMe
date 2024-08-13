@@ -51,7 +51,7 @@ In short, __never__ be late.
 
 
 [Christopher Gibson][3]<br>
-<img src="" height="250px">
+<img src="https://github.com/ZackApog/AboutMe/blob/b3e731240094a5f27596fe76d431ed4a8bf831c6/img/Gibson.jpg" height="250px">
 
 
 [1]: https://www.linkedin.com/in/nic-bander-6168b37b
