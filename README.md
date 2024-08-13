@@ -44,9 +44,15 @@ In short, __never__ be late.
 
 [Nicholas Bander][1]<br>
 <img src="https://github.com/ZackApog/AboutMe/blob/41221556351e9d3614537ed40b5634831037b9f3/img/Gibson.png" height="250px">
+
+
 [Hans Lagenour][2]<br>
 
+
+
 [Christopher Gibson][3]<br>
+
+
 
 [1]: https://www.linkedin.com/in/nic-bander-6168b37b
 
